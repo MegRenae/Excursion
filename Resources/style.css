@@ -1,17 +1,39 @@
-body{
+body {
   background-color: black;
   font-family: Verdana, arial;
 }
 
-h1{
+h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
   text-align: center;
 }
 
-.download{
+.download {
   font-size: 16px;
   color: aquamarine;
+  text-align: center;
+  text-decoration: underline;
+}
+
+h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+  text-align: center;
+}
+
+p {
+  font-size: 21px;
+  color: grey
+  text-align: center;
+}
+
+.image {
+  text-align: center;
+}
+
+.video {
   text-align: center;
 }
