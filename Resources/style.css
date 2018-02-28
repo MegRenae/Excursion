@@ -26,7 +26,8 @@ h2 {
 
 p {
   font-size: 21px;
-  color: grey
+  font-weight: normal;
+  color: gray;
   text-align: center;
 }
 
@@ -36,4 +37,9 @@ p {
 
 .video {
   text-align: center;
+}
+
+footer {
+  text-align: right;
+  color: gray;
 }
